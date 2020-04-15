@@ -1,0 +1,12 @@
+total 8
+drwxr-xr-x  11 peterizsak  staff  352 Apr 11 17:00 .
+-rw-r--r--   1 peterizsak  staff    0 Apr 11 17:00 month.yaml
+-rw-r--r--   1 peterizsak  staff   78 Apr 11 16:59 config.toml
+drwxr-xr-x   3 peterizsak  staff   96 Apr 11 16:52 themes
+drwxr-xr-x   3 peterizsak  staff   96 Apr 11 16:50 content
+drwxr-xr-x   3 peterizsak  staff   96 Apr 11 16:50 resources
+drwxr-xr-x   3 peterizsak  staff   96 Apr 11 16:49 archetypes
+drwxr-xr-x   2 peterizsak  staff   64 Apr 11 16:49 data
+drwxr-xr-x   2 peterizsak  staff   64 Apr 11 16:49 static
+drwxr-xr-x   2 peterizsak  staff   64 Apr 11 16:49 layouts
+drwxr-xr-x   3 peterizsak  staff   96 Apr 11 16:49 ..
