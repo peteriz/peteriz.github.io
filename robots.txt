@@ -1,5 +1,5 @@
 User-agent: *
 
+Disallow: /publications/
 Disallow: /about/
 Disallow: /homepage/
-Disallow: /publications/
