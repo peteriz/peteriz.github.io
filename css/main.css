@@ -292,7 +292,7 @@ table th {
 }
 
 #titleonly a {
-  color: var(--txt-color);
+  color: var(--hover-color);
 }
 
 #titleonly a:hover {
@@ -342,7 +342,7 @@ table th {
 }
 
 .icons {
-  color: var(--txt-color);
+  color: var(--hover-color);
   font-size: 1.4rem;
 }
 
