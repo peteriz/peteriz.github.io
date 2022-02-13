@@ -342,7 +342,7 @@ table th {
 }
 
 .icons {
-  color: var(--hover-color);
+  color: var(--txt-color);
   font-size: 1.4rem;
 }
 
