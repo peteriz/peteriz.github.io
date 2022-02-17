@@ -347,7 +347,7 @@ table th {
 }
 
 .icons:hover {
-  color: var(--text-color);
+  color: var(--txt-color);
 }
 
 .recent-posts .posts .post {
