@@ -292,7 +292,7 @@ table th {
 }
 
 #titleonly a {
-  color: var(--hover-color);
+  color: var(--text-color);
 }
 
 #titleonly a:hover {
@@ -342,12 +342,12 @@ table th {
 }
 
 .icons {
-  color: var(--txt-color);
+  color: var(--hover-color);
   font-size: 1.4rem;
 }
 
 .icons:hover {
-  color: var(--hover-color);
+  color: var(--text-color);
 }
 
 .recent-posts .posts .post {
