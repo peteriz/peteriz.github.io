@@ -20,14 +20,14 @@ body {
 :root {
     --bg-color: #0000000e;
     /* --txt-color: #0F1016; */
-    --txt-color: #222C42;
+    --txt-color: #051b2e;
     --line-color: #EEE;
     --fn-color: #CCC;
-    --ft-txt-color: #222C42;
+    --ft-txt-color: #051b2e;
     /* --lk-color: #222C42; */
     --lk-color: #124FAA;
-    --hover-color: #D81F44;
-    --bq-color: #D81F44;
+    --hover-color: #b31a34;
+    --bq-color: #b31a34;
     --tb1-color: #DEE2E6;
     --inline-cd-color: #DDD;
 }
