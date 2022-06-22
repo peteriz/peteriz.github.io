@@ -9,7 +9,11 @@ html {
 }
 
 #titleonly {
-    font-size: 4.75rem;
+    font-size: 3rem;
+}
+
+#title-social {
+    margin-top: -37px;
 }
 
 body {
