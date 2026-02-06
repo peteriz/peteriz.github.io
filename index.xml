@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Peter Izsak</title><link>/</link><description>Recent content on Peter Izsak</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>/publications/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>/publications/</guid><description>&lt;h4 id="2024"&gt;
- 2024
- &lt;a class="heading-link" href="#2024"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly&lt;/strong&gt; &lt;br&gt;
-&lt;em&gt;Howard Yen, Tianyu Gao, Minmin Hou, Ke Ding, Daniel Fleischer, Peter Izsak, Moshe Wasserblat, Danqi Chen&lt;/em&gt; &lt;br&gt;
-Preprint &lt;br&gt;
-&lt;a href="https://arxiv.org/abs/2410.02694" class="external-link" target="_blank" rel="noopener"&gt;Paper&lt;/a&gt; | &lt;a href="https://github.com/princeton-nlp/HELMET" class="external-link" target="_blank" rel="noopener"&gt;Repo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation&lt;/strong&gt; &lt;br&gt;
-&lt;em&gt;Daniel Fleischer, Moshe Berchansky, Moshe Wasserblat and Peter Izsak&lt;/em&gt; &lt;br&gt;
-Preprint &lt;br&gt;
-&lt;a href="https://arxiv.org/abs/2408.02545" class="external-link" target="_blank" rel="noopener"&gt;Paper&lt;/a&gt; | &lt;a href="https://github.com/IntelLabs/RAGFoundry" class="external-link" target="_blank" rel="noopener"&gt;Repo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CoTAR: Chain-of-Thought Attribution Reasoning with Multi-level Granularity&lt;/strong&gt; &lt;br&gt;
-&lt;em&gt;Moshe Berchansky, Daniel Fleischer, Moshe Wasserblat, Peter Izsak&lt;/em&gt; &lt;br&gt;
-The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) Findings &lt;br&gt;
-&lt;a href="https://arxiv.org/abs/2404.10513" class="external-link" target="_blank" rel="noopener"&gt;Paper&lt;/a&gt;&lt;/p&gt;</description></item><item><title/><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p&gt;Peter Izsak is a Senior Data and Applied Scientist at Microsoft, specializing in Natural Language Processing solutions for healthcare. With expertise in computational linguistics and machine learning, he architects NLP systems that address complex healthcare challenges.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Peter Izsak</title><link>/</link><description>Recent content on Peter Izsak</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>/publications/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>/publications/</guid><description/></item><item><title/><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p&gt;Peter Izsak is a Senior Data and Applied Scientist at Microsoft, specializing in Natural Language Processing solutions for healthcare. With expertise in computational linguistics and machine learning, he architects NLP systems that address complex healthcare challenges.&lt;/p&gt;
 &lt;p&gt;Before Microsoft, Peter served as a Research Scientist and Team Lead at Intel Labs, leading research at the intersection of Deep Learning and NLP. He holds both a Master of Science and Bachelor of Science from the Technion - Israel Institute of Technology.&lt;/p&gt;</description></item></channel></rss>
