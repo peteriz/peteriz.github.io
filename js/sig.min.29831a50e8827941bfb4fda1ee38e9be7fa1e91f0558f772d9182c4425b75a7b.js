@@ -1,0 +1,2 @@
+(()=>{if(typeof window=="undefined"||!window.console||!console.log)return;const t="color:oklch(0.43 0.115 38);font:600 13px/1.4 ui-sans-serif,system-ui;",e="color:oklch(0.43 0.035 58);font:400 12px/1.5 ui-sans-serif,system-ui;",n="color:oklch(0.215 0.028 56);background:oklch(0.92 0.04 60 / 0.55);padding:2px 6px;border-radius:4px;font:500 12px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;";console.log("%cpeter izsak",t),console.log(`%cresearch, retrieval, long-context evaluation, efficient training.
+%csource: %cgithub.com/peteriz/personal-website`,e,e,n)})()
